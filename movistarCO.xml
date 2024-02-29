@@ -1,0 +1,447 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="A&amp;E">
+    <display-name lang="es">A&amp;E</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="es">AMC</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="AMC HD">
+    <display-name lang="es">AMC HD</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="es">Animal Planet</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="ATRES SERIES HD">
+    <display-name lang="es">ATRES SERIES HD</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="es">AXN</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="BABY TV">
+    <display-name lang="es">BABY TV</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="BBC World News">
+    <display-name lang="es">BBC World News</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="CableNoticias">
+    <display-name lang="es">CableNoticias</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="Canal 1">
+    <display-name lang="es">Canal 1</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="Canal Capital">
+    <display-name lang="es">Canal Capital</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="CANAL CONGRESO">
+    <display-name lang="es">CANAL CONGRESO</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="Canal Institucional">
+    <display-name lang="es">Canal Institucional</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="Canal Trece">
+    <display-name lang="es">Canal Trece</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="Canal TRO">
+    <display-name lang="es">Canal TRO</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="Canal Zoom">
+    <display-name lang="es">Canal Zoom</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="Caracol">
+    <display-name lang="es">Caracol</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="CARTOONITO">
+    <display-name lang="es">CARTOONITO</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="es">Cartoon Network</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="Cinecanal">
+    <display-name lang="es">Cinecanal</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="Cinemax">
+    <display-name lang="es">Cinemax</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="City TV">
+    <display-name lang="es">City TV</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="CNN Español">
+    <display-name lang="es">CNN Español</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="Comedy Central">
+    <display-name lang="es">Comedy Central</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="DHE HD">
+    <display-name lang="es">DHE HD</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="es">Discovery Channel</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="DISCOVERY HD THEATER">
+    <display-name lang="es">DISCOVERY HD THEATER</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="Discovery H&amp;H">
+    <display-name lang="es">Discovery H&amp;H</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="Discovery Kids">
+    <display-name lang="es">Discovery Kids</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="Discovery Theater">
+    <display-name lang="es">Discovery Theater</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="Discovery Turbo">
+    <display-name lang="es">Discovery Turbo</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="DISNEY +">
+    <display-name lang="es">DISNEY +</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name lang="es">Disney Channel</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="DISNEY JUNIOR">
+    <display-name lang="es">DISNEY JUNIOR</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="E! Entertainment TV">
+    <display-name lang="es">E! Entertainment TV</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="El Gourmet">
+    <display-name lang="es">El Gourmet</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="El Tiempo Televisión">
+    <display-name lang="es">El Tiempo Televisión</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="ENLACE">
+    <display-name lang="es">ENLACE</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="Época">
+    <display-name lang="es">Época</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="ESPN">
+    <display-name lang="es">ESPN</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="ESPN 2">
+    <display-name lang="es">ESPN 2</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="ESPN 3">
+    <display-name lang="es">ESPN 3</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="ESPN 4">
+    <display-name lang="es">ESPN 4</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="ESPN EXTRA">
+    <display-name lang="es">ESPN EXTRA</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="EUROPA EUROPA">
+    <display-name lang="es">EUROPA EUROPA</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="EWTN">
+    <display-name lang="es">EWTN</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="FILM &amp; ARTS">
+    <display-name lang="es">FILM &amp; ARTS</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="Food Network">
+    <display-name lang="es">Food Network</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="Fox Sports 2">
+    <display-name lang="es">Fox Sports 2</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="Fox Sports 3">
+    <display-name lang="es">Fox Sports 3</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="FX">
+    <display-name lang="es">FX</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="GLITZ*">
+    <display-name lang="es">GLITZ*</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="GOLDEN HD">
+    <display-name lang="es">GOLDEN HD</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="es">HBO</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="es">HBO 2</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="HBO Family">
+    <display-name lang="es">HBO Family</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="HBO FAMILY ESTE">
+    <display-name lang="es">HBO FAMILY ESTE</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="HBO POP">
+    <display-name lang="es">HBO POP</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="HBO XTREME">
+    <display-name lang="es">HBO XTREME</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="HGTV">
+    <display-name lang="es">HGTV</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="History 2">
+    <display-name lang="es">History 2</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="History Channel">
+    <display-name lang="es">History Channel</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="HISTORY CHANNEL">
+    <display-name lang="es">HISTORY CHANNEL</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="¡Hola! TV">
+    <display-name lang="es">¡Hola! TV</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="HTV">
+    <display-name lang="es">HTV</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="ID - Investigation Discovery">
+    <display-name lang="es">ID - Investigation Discovery</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="Love Nature">
+    <display-name lang="es">Love Nature</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="Mas Chic">
+    <display-name lang="es">Mas Chic</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="Milenio Tv">
+    <display-name lang="es">Milenio Tv</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="MTV">
+    <display-name lang="es">MTV</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="MTV 00S">
+    <display-name lang="es">MTV 00S</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="MTV Live">
+    <display-name lang="es">MTV Live</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="NAT GEO">
+    <display-name lang="es">NAT GEO</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="National Geographic">
+    <display-name lang="es">National Geographic</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="NETFLIX">
+    <display-name lang="es">NETFLIX</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="Nick">
+    <display-name lang="es">Nick</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="Nick Jr">
+    <display-name lang="es">Nick Jr</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="Nick Music">
+    <display-name lang="es">Nick Music</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="NTN24">
+    <display-name lang="es">NTN24</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="NUESTRA TELE">
+    <display-name lang="es">NUESTRA TELE</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="Paramount Channel">
+    <display-name lang="es">Paramount Channel</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="PASIONES">
+    <display-name lang="es">PASIONES</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="PRIME VIDEO">
+    <display-name lang="es">PRIME VIDEO</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="RCN">
+    <display-name lang="es">RCN</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="RCN Novelas">
+    <display-name lang="es">RCN Novelas</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="Señal Colombia">
+    <display-name lang="es">Señal Colombia</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="Sony">
+    <display-name lang="es">Sony</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="Space">
+    <display-name lang="es">Space</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="STAR +">
+    <display-name lang="es">STAR +</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="STAR CHANNEL">
+    <display-name lang="es">STAR CHANNEL</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="Star TVE HD">
+    <display-name lang="es">Star TVE HD</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="Studio Universal">
+    <display-name lang="es">Studio Universal</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="Teen Nick">
+    <display-name lang="es">Teen Nick</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="Teleantioquia">
+    <display-name lang="es">Teleantioquia</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="Telecafé">
+    <display-name lang="es">Telecafé</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="Telecaribe">
+    <display-name lang="es">Telecaribe</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="Teleislas">
+    <display-name lang="es">Teleislas</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="TELEMEDELLIN">
+    <display-name lang="es">TELEMEDELLIN</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="Telemundo">
+    <display-name lang="es">Telemundo</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="Telepacifico">
+    <display-name lang="es">Telepacifico</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="TELEVID">
+    <display-name lang="es">TELEVID</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="es">TLC</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="TNT">
+    <display-name lang="es">TNT</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="TNT Novelas">
+    <display-name lang="es">TNT Novelas</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="TNT Series">
+    <display-name lang="es">TNT Series</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="Universal TV">
+    <display-name lang="es">Universal TV</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="Warner Channel">
+    <display-name lang="es">Warner Channel</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="Win Sports">
+    <display-name lang="es">Win Sports</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="Win Sports+">
+    <display-name lang="es">Win Sports+</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="YOUTUBE">
+    <display-name lang="es">YOUTUBE</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+  <channel id="YOUTUBE KIDS">
+    <display-name lang="es">YOUTUBE KIDS</display-name>
+    <url>http://www.movistar.co</url>
+  </channel>
+</tv>
