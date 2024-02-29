@@ -1,0 +1,663 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="A&amp;E MUNDO">
+    <display-name lang="es">A&amp;E MUNDO</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="ADRENALINA SPORTS NETWORK">
+    <display-name lang="es">ADRENALINA SPORTS NETWORK</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="ADRENALINA SPORTS NETWORK HD">
+    <display-name lang="es">ADRENALINA SPORTS NETWORK HD</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="AGROTENDENCIA">
+    <display-name lang="es">AGROTENDENCIA</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="es">AMC</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="ANIMAL PLANET">
+    <display-name lang="es">ANIMAL PLANET</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="ANTENA3">
+    <display-name lang="es">ANTENA3</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="ANTV">
+    <display-name lang="es">ANTV</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="ÁVILA TV">
+    <display-name lang="es">ÁVILA TV</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="es">AXN</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="BABY TV">
+    <display-name lang="es">BABY TV</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="BETHEL">
+    <display-name lang="es">BETHEL</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="BOLIVIA TV">
+    <display-name lang="es">BOLIVIA TV</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="BYM SPORTS">
+    <display-name lang="es">BYM SPORTS</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="BYM SPORTS HD">
+    <display-name lang="es">BYM SPORTS HD</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="CANAL 13">
+    <display-name lang="es">CANAL 13</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="CANAL 24 HS">
+    <display-name lang="es">CANAL 24 HS</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="CANAL GUIA INTER">
+    <display-name lang="es">CANAL GUIA INTER</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="CANAL I">
+    <display-name lang="es">CANAL I</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="CARTOON NETWORK">
+    <display-name lang="es">CARTOON NETWORK</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="CARTOONITO">
+    <display-name lang="es">CARTOONITO</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="CCTV 4">
+    <display-name lang="es">CCTV 4</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="CGTN-ESPAÑOL">
+    <display-name lang="es">CGTN-ESPAÑOL</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="CINECANAL">
+    <display-name lang="es">CINECANAL</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="CINEMAX">
+    <display-name lang="es">CINEMAX</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="CLAROSPORTS">
+    <display-name lang="es">CLAROSPORTS</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="CNN">
+    <display-name lang="es">CNN</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="COLOMBEIA">
+    <display-name lang="es">COLOMBEIA</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="COMEDY CENTRAL">
+    <display-name lang="es">COMEDY CENTRAL</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="CONCIENCIA TV">
+    <display-name lang="es">CONCIENCIA TV</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="CUBAVISION">
+    <display-name lang="es">CUBAVISION</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="DE PELICULA">
+    <display-name lang="es">DE PELICULA</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="DIRECTV SPORTS">
+    <display-name lang="es">DIRECTV SPORTS</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="DIRECTV SPORTS +">
+    <display-name lang="es">DIRECTV SPORTS +</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="DIRECTV SPORTS + HD">
+    <display-name lang="es">DIRECTV SPORTS + HD</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="DIRECTV SPORTS 2">
+    <display-name lang="es">DIRECTV SPORTS 2</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="DIRECTV SPORTS 2 HD">
+    <display-name lang="es">DIRECTV SPORTS 2 HD</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="DIRECTV SPORTS HD">
+    <display-name lang="es">DIRECTV SPORTS HD</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="DISCOVERY CHANNEL">
+    <display-name lang="es">DISCOVERY CHANNEL</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="DISCOVERY HD THEATER">
+    <display-name lang="es">DISCOVERY HD THEATER</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="DISCOVERY HOME AND HEALTH">
+    <display-name lang="es">DISCOVERY HOME AND HEALTH</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="DISCOVERY ID">
+    <display-name lang="es">DISCOVERY ID</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="DISCOVERY KIDS">
+    <display-name lang="es">DISCOVERY KIDS</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="DISCOVERY SCIENCE">
+    <display-name lang="es">DISCOVERY SCIENCE</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="DISCOVERY TURBO">
+    <display-name lang="es">DISCOVERY TURBO</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="DISNEY">
+    <display-name lang="es">DISNEY</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="DISNEY JR">
+    <display-name lang="es">DISNEY JR</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="DW ESPAÑOL">
+    <display-name lang="es">DW ESPAÑOL</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="EL GOURMET">
+    <display-name lang="es">EL GOURMET</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="ENLACE">
+    <display-name lang="es">ENLACE</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="ENTERTAINMENT TELEVISION">
+    <display-name lang="es">ENTERTAINMENT TELEVISION</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="ESPN">
+    <display-name lang="es">ESPN</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="ESPN 2">
+    <display-name lang="es">ESPN 2</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="ESPN 3">
+    <display-name lang="es">ESPN 3</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="ESPN 3 HD">
+    <display-name lang="es">ESPN 3 HD</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="ESPN 4">
+    <display-name lang="es">ESPN 4</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="ESPN 4 HD">
+    <display-name lang="es">ESPN 4 HD</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="ESPN EXTRA HD">
+    <display-name lang="es">ESPN EXTRA HD</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="EUROCHANNEL">
+    <display-name lang="es">EUROCHANNEL</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="EUROPA EUROPA">
+    <display-name lang="es">EUROPA EUROPA</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="EWTN">
+    <display-name lang="es">EWTN</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="FANB TV">
+    <display-name lang="es">FANB TV</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="FAST&amp;FUN BOX">
+    <display-name lang="es">FAST&amp;FUN BOX</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="FILM&amp;ARTS">
+    <display-name lang="es">FILM&amp;ARTS</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="FOOD NETWORK HD">
+    <display-name lang="es">FOOD NETWORK HD</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="FOX SPORTS 2">
+    <display-name lang="es">FOX SPORTS 2</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="FOX SPORTS 3">
+    <display-name lang="es">FOX SPORTS 3</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="FX">
+    <display-name lang="es">FX</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="GLITZ">
+    <display-name lang="es">GLITZ</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="GLOBOVISION">
+    <display-name lang="es">GLOBOVISION</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="GOL TV">
+    <display-name lang="es">GOL TV</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="GOLDEN">
+    <display-name lang="es">GOLDEN</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="GOLDEN EDGE HD">
+    <display-name lang="es">GOLDEN EDGE HD</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="GOLDEN PLUS HD">
+    <display-name lang="es">GOLDEN PLUS HD</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="GOLDEN PREMIER">
+    <display-name lang="es">GOLDEN PREMIER</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="H2">
+    <display-name lang="es">H2</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="es">HBO</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="es">HBO 2</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="HBO FAMILY">
+    <display-name lang="es">HBO FAMILY</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="HBO MUNDI">
+    <display-name lang="es">HBO MUNDI</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="HBO PLUS">
+    <display-name lang="es">HBO PLUS</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="HBO POP PANAMERICANO">
+    <display-name lang="es">HBO POP PANAMERICANO</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="HBO SIGNATURE">
+    <display-name lang="es">HBO SIGNATURE</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="HBO XTREME">
+    <display-name lang="es">HBO XTREME</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="HGTV">
+    <display-name lang="es">HGTV</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="HISTORY">
+    <display-name lang="es">HISTORY</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="HOLA TV">
+    <display-name lang="es">HOLA TV</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="HOLA TV HD">
+    <display-name lang="es">HOLA TV HD</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="HTV">
+    <display-name lang="es">HTV</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="I-SAT">
+    <display-name lang="es">I-SAT</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="IVC">
+    <display-name lang="es">IVC</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="IVC HD">
+    <display-name lang="es">IVC HD</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="LA VOZ DE MARIA">
+    <display-name lang="es">LA VOZ DE MARIA</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="LAS ESTRELLAS">
+    <display-name lang="es">LAS ESTRELLAS</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="LAS ESTRELLAS HD">
+    <display-name lang="es">LAS ESTRELLAS HD</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="LIFETIME">
+    <display-name lang="es">LIFETIME</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="MAS CHIC">
+    <display-name lang="es">MAS CHIC</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="MERIDIANO TV">
+    <display-name lang="es">MERIDIANO TV</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="MTV">
+    <display-name lang="es">MTV</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="MTV HITS">
+    <display-name lang="es">MTV HITS</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="MULTIPREMIER">
+    <display-name lang="es">MULTIPREMIER</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="NATIONAL GEOGRAPHIC">
+    <display-name lang="es">NATIONAL GEOGRAPHIC</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="NICK JR">
+    <display-name lang="es">NICK JR</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="NICKELODEON">
+    <display-name lang="es">NICKELODEON</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="NICKMUSIC">
+    <display-name lang="es">NICKMUSIC</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="PARAMOUNT NETWORK">
+    <display-name lang="es">PARAMOUNT NETWORK</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="PASIONES HD">
+    <display-name lang="es">PASIONES HD</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="PENTHOUSE">
+    <display-name lang="es">PENTHOUSE</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="PLAYBOY">
+    <display-name lang="es">PLAYBOY</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="RADIO 80S HITS">
+    <display-name lang="es">RADIO 80S HITS</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="RADIO 90S HITS">
+    <display-name lang="es">RADIO 90S HITS</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="RADIO CLASICOS INSTRUMENTALES">
+    <display-name lang="es">RADIO CLASICOS INSTRUMENTALES</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="RADIO CONTEMPORANEA">
+    <display-name lang="es">RADIO CONTEMPORANEA</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="RADIO EXITOS EN ESPAÑOL">
+    <display-name lang="es">RADIO EXITOS EN ESPAÑOL</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="RADIO EXITOS EN INGLES">
+    <display-name lang="es">RADIO EXITOS EN INGLES</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="RADIO JAZZ CLASICO">
+    <display-name lang="es">RADIO JAZZ CLASICO</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="RADIO MARIACHI">
+    <display-name lang="es">RADIO MARIACHI</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="RADIO NUEVA ERA">
+    <display-name lang="es">RADIO NUEVA ERA</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="RADIO ROCK ALTERNATIVO">
+    <display-name lang="es">RADIO ROCK ALTERNATIVO</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="RAI">
+    <display-name lang="es">RAI</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="RTP INTERNACIONAL">
+    <display-name lang="es">RTP INTERNACIONAL</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="RUSSIA TODAY">
+    <display-name lang="es">RUSSIA TODAY</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="SERTV">
+    <display-name lang="es">SERTV</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="SEXTREME">
+    <display-name lang="es">SEXTREME</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="SHOWVEN TV">
+    <display-name lang="es">SHOWVEN TV</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="SONY">
+    <display-name lang="es">SONY</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="SPACE">
+    <display-name lang="es">SPACE</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="SPACE HD">
+    <display-name lang="es">SPACE HD</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="STAR CHANNEL">
+    <display-name lang="es">STAR CHANNEL</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="STAR CHANNEL HD">
+    <display-name lang="es">STAR CHANNEL HD</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="STUDIO UNIVERSAL">
+    <display-name lang="es">STUDIO UNIVERSAL</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="SUN CHANNEL">
+    <display-name lang="es">SUN CHANNEL</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="SY FY">
+    <display-name lang="es">SY FY</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="TBS VERYFUNNY">
+    <display-name lang="es">TBS VERYFUNNY</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="TCM">
+    <display-name lang="es">TCM</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="TELEFE INTERNACIONAL">
+    <display-name lang="es">TELEFE INTERNACIONAL</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="TELEMUNDO">
+    <display-name lang="es">TELEMUNDO</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="TELESUR">
+    <display-name lang="es">TELESUR</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="TELEVEN">
+    <display-name lang="es">TELEVEN</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="es">TLC</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="TLNOVELAS">
+    <display-name lang="es">TLNOVELAS</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="TLT">
+    <display-name lang="es">TLT</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="TLT HD">
+    <display-name lang="es">TLT HD</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="TNT">
+    <display-name lang="es">TNT</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="TNT SERIES">
+    <display-name lang="es">TNT SERIES</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="TOONCAST">
+    <display-name lang="es">TOONCAST</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="TRU TV">
+    <display-name lang="es">TRU TV</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="TV FAMILIA">
+    <display-name lang="es">TV FAMILIA</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="TV PUBLICA">
+    <display-name lang="es">TV PUBLICA</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="TV5">
+    <display-name lang="es">TV5</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="TVE">
+    <display-name lang="es">TVE</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="TVEPACO">
+    <display-name lang="es">TVEPACO</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="TVES">
+    <display-name lang="es">TVES</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="TYC SPORTS HD">
+    <display-name lang="es">TYC SPORTS HD</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="UNIVERSAL CHANNEL">
+    <display-name lang="es">UNIVERSAL CHANNEL</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="UNIVISION HD">
+    <display-name lang="es">UNIVISION HD</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="VALE TV">
+    <display-name lang="es">VALE TV</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="VENEVISION">
+    <display-name lang="es">VENEVISION</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="VENEVISION PLUS">
+    <display-name lang="es">VENEVISION PLUS</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="VENUS">
+    <display-name lang="es">VENUS</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="VH1 CLASSIC">
+    <display-name lang="es">VH1 CLASSIC</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="VIVE TV">
+    <display-name lang="es">VIVE TV</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="VTV">
+    <display-name lang="es">VTV</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="WARNER">
+    <display-name lang="es">WARNER</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+  <channel id="X-TIME">
+    <display-name lang="es">X-TIME</display-name>
+    <url>http://www.inter.com.ve</url>
+  </channel>
+</tv>
