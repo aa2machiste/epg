@@ -1,0 +1,10 @@
+# ═══════════════════════════════════════════════════════════════
+# 🤖 ABRAMIA - Terminal AI con Streaming y Memoria
+# ═══════════════════════════════════════════════════════════════
+
+API_URL="http://40.160.56.204:3000/api/chat/completions"
+API_KEY="sk-32178e27e64481d66f3843f54f3c6e7e351b41178869023a"
+MODELS=("ai/llama3.2:latest" "docker-gordon" "gpt-4o" "gpt-4o-mini" "Meta-Llama-3.1-405B-Instruct" "ai/gemma3:1B-F16" "abramiagpt4-o")
+MODEL="${MODELS[0]}"
+MEMORY_DIR="$HOME/.abramia"
+MEMORY_FILE="$MEMORY_DIR/memoria.json"
